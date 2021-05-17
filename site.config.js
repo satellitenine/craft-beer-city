@@ -14,11 +14,11 @@ module.exports = {
   // open graph metadata (optional)
   description: 'Research into beer and placemaking',
   socialImageTitle: 'Craft Beer City',
-//  socialImageSubtitle: 'Hello World! 👋',
+  socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-//  twitter: 'transitive_bs',
-//  github: 'transitive-bullshit',
+//  twitter: 'julianbakker',
+//  github: 'satellitenine',
 //  linkedin: 'julianbakker',
 
   // default notion icon and cover images for site-wide consistency (optional)
